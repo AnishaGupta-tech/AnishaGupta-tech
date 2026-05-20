@@ -2,31 +2,78 @@
 
 👋 Hi, I’m Anisha Gupta  
 🤖 Interested in AI automation, agentic workflows, and building systems that solve real operational problems  
-⚙️ Building AI workflows using tools like n8n, Make, APIs, LLMs, Odoo, and automation platforms  
-🌱 Currently learning more about scalable AI systems, backend architecture, and production ready workflows  
-💡 I enjoy turning messy manual processes into clean automated systems  
-💞️ Open to collaborating on AI, automation, and interesting product ideas  
+⚙️ Building AI workflows using n8n, Make, APIs, LLMs, Odoo, CRMs, and automation platforms  
+🌱 Currently learning more about scalable AI systems, backend architecture, and production workflows  
+💡 I enjoy turning messy manual processes into smooth automated systems  
+💞️ Open to collaborating on AI, automation, SaaS, and interesting product ideas  
 📫 Reach me on LinkedIn  
-😄 Pronouns: She/Her  
-⚡ Fun fact: I like quietly building things that save people hours of work  
+⚡ Fun fact: I like quietly building systems that save people hours of repetitive work  
 
-# 💻 Tech Stack:
+---
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![NodeJS](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![MongoDB](https://img.shields.io/badge/MongoDB-4ea94b?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![API](https://img.shields.io/badge/API-Integration-black?style=for-the-badge)
-![AI Automation](https://img.shields.io/badge/AI-Automation-blue?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge)
-![Make](https://img.shields.io/badge/Make-Automation-6D5DF6?style=for-the-badge)
-![Odoo](https://img.shields.io/badge/Odoo-ERP%20Automation-714B67?style=for-the-badge)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+# 🚀 What I Work On
+
+### AI Automation & Workflows
+- AI powered workflow automation using n8n and Make  
+- AI agents and LLM integrations  
+- Automated KPI dashboards and reporting systems  
+- Content generation and automated posting workflows using Blotato  
+- CRM automations and operational dashboards  
+- Slack alerts and workflow monitoring  
+- Lead management and pipeline automation  
+- Recruitment workflows and smart forms  
+- Logistics and quotation automation systems  
+- API integrations, webhooks, and backend automations  
+
+---
+
+# 🧠 Systems & Projects
+
+### 📦 Logistics Automation System
+Built a logistics workflow in Odoo that handled:
+- Customer request intake  
+- Missing information follow ups  
+- Quotation generation  
+- Delivery partner coordination  
+- Pipeline movement automation  
+
+### 📊 Reporting & Dashboard Systems
+Built automated reporting systems where:
+- Campaign and operational data was collected automatically  
+- KPI dashboards updated in real time  
+- Teams received Slack alerts for workflow failures or missing data  
+
+### 📢 Automated Content Operations
+Worked on workflows involving:
+- AI generated content  
+- Multi platform automated posting using Blotato  
+- Scheduling and approval systems  
+- Performance tracking workflows  
+
+### 🧾 Recruitment & CRM Workflows
+Built systems for:
+- Candidate and lead pipelines  
+- Automated follow ups  
+- CRM movement automation  
+- Recruitment forms and dashboards  
+
+---
+
+# 💻 Tech Stack
+
+### Languages & Frameworks
+Python • JavaScript • TypeScript • React • Node.js • Express.js • HTML • CSS • Tailwind CSS  
+
+### AI & Automation
+n8n • Make • OpenAI APIs • AI Agents • Prompt Workflows • Odoo • Slack Integrations • API Automation • Webhooks  
+
+### Databases & Tools
+MongoDB • MySQL • Airtable • Google Sheets • Asana • Notion • CRMs • GitHub  
+
+### Deployment & Platforms
+Railway • Render • Vercel • Netlify  
+
+---
 
 
 ## 🏆 GitHub Trophies
